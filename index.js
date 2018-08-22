@@ -1,3 +1,4 @@
+//This is for the simple weather app
 let request = require('request');
 const argv = require('yargs').argv;
 
